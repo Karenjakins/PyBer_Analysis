@@ -11,13 +11,12 @@ This project consisted of performing exploratory analysis of ride-sharing data f
 The results of the analysis can be reference on the table below:
 ![alt text](https://github.com/Karenjakins/PyBer_Analysis/blob/main/Resources/PyBer%20Summary.png "PyBer Summary")
 
+The results of data are much easily understood with the graph below as it shows the disperaty of ride sharing services across the three different city types, and it clearly demonstrates what is most likely accessibility trends. 
 ![alt text](https://github.com/Karenjakins/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png "Total Fare by City Type")
 
 ## Summary 
 
 The code developed to run this analysis is a great and efficient tool for the election commission to analyze data sets of big scales, like this audit, the code is extremely customizable and can be easily run to analyze any data set by making small adjustments. The script can be applied to any electoral tabular dataset simply by changing the source of the data on the code itself, as can be seen in the screenshot below. 
-
-![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/File%20for%20analysis.png "File for analysis")
 
 
 ## Resources
